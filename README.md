@@ -1,35 +1,48 @@
-# Hey there! 👋, I'm Chase Oaks
+# 👋 Hey there, I'm Chase Oaks
 
-🎓 Currently wrapping up my undergraduate degree in Computer Science, I'm a lifelong learner who's passionate about exploring various facets of the tech world and diving into different coding languages.
+🎓 I'm close to completing my undergraduate degree in Computer Science. As a lifelong learner, I'm deeply passionate about exploring the vast world of technology and diving into a variety of coding languages.
 
-🌱 My current adventure involves expanding my knowledge in a wide range of tech topics and languages, all while keeping an eye out for exciting new developments in the field.
+🌱 My current journey involves expanding my knowledge across a broad spectrum of tech topics and languages. I stay vigilant for the latest developments in the ever-evolving tech landscape.
 
-🤝 I'm open to collaborating on a wide array of projects, so if you have an idea or initiative you'd like to work on together, don't hesitate to reach out. Let's create something awesome!
+🤝 I'm enthusiastic about collaborating on diverse projects. If you have an idea or initiative you'd like to work on together, please don't hesitate to reach out. Let's create something amazing!
 
 💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/chase-oaks).
 
 😄 Pronouns: He / Him
 
-🌟 Fun Fact: I share the common enthusiasm of tech-savvy folks for all things related to technology, from tinkering with electronics to writing lines of code that make things happen.
+🌟 Fun Fact: I share the same excitement as tech enthusiasts do for all things related to technology, from tinkering with electronics to crafting lines of code that bring ideas to life.
 
-### GitHub Stats and Activities
+---
 
 <div align="center">
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&theme=chartreuse-dark&layout=donut&langs_count=20" width="500" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=chartreuse-dark&include_all_commits=true&number_format=long" width="500" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=chase0aks&theme=chartreuse-dark&card_width=500"" />
-  </a>
-  <br />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=chase0aks" width="200" />
+  <h2>GitHub Stats and Activities</h2>
 </div>
 
-# Keep coding and exploring the tech world! 😄🚀
+<div align="center">
+  <h3>GitHub Languages</h3>
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&theme=dark&layout=donut&langs_count=20" width="500" />
+  </a>
+</div>
 
+<div align="center">
+  <h3>GitHub Overview</h3>
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="500" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>GitHub Contribution Streak</h3>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=chase0aks&theme=dark" alt="GitHub Streak" width="500" />
+    </a>
+</div>
+
+<div align="center">
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=chase0aks)](https://git.io/streak-stats)" />
+</div>
+
+<div align="center">
+  <p>Keep coding and exploring the tech world! 😄🚀</p>
+</div>
