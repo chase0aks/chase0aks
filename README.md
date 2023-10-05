@@ -24,7 +24,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=dark&hide_border=true&text_color=ffffff" width="500" />
   </a>
   <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=dark&hide_border=true&text_color=ffffff" width="500" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=tokyo-night&hide_border=true&text_color=ffffff" width="500" />
   </a>
   <br />
   <br />
