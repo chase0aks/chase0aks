@@ -6,7 +6,7 @@
 
 🤝 I'm open to collaborating on a wide array of projects, so if you have an idea or initiative you'd like to work on together, don't hesitate to reach out. Let's create something awesome!
 
-💼 You can connect with me on [LinkedIn](www.linkedin.com/in/chase-oaks-42a19b19b).
+💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link).
 
 😄 Pronouns: He / Him
 
@@ -23,7 +23,15 @@
   <a href="https://github.com/chase0aks">
     <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
   </a>
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  </a>
   <br />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=chase0aks&style=for-the-badge&color=orange" width="200" />
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks&theme=tokyo-night&hide_border=true&text_color=ffffff&color=708090&point=24292e&area=true" />
+  </a>
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=chase0aks&style=for-the-badge&color=green" width="200" />
 </div>
