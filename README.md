@@ -1,34 +1,37 @@
-# Hi 👋, **I'm Chase Oaks 
+# Hey there! 👋, I'm Chase Oaks
 
-- 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
-- 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
-- 👯 I’m looking to collaborate on **Open Source** and **IoT** projects. 
-- 💬 Ask me *anything* about `Technology`
-- 📫 <a href="mailto:chaseoaks14@gmail.com">Send an email</a> 
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love electronics and programming.
+🎓 Currently wrapping up my undergraduate degree in Computer Science, I'm a lifelong learner who's passionate about exploring various facets of the tech world and diving into different coding languages.
 
-<a href="https://github.com/chase0aks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
-</a>
-<br />
-<br />
-<a href="https://github.com/chase0aks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
-</a>
-<a href="https://github.com/chase0aks">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
-</a>
-<br />
-<br />
-<a href="https://github.com/chase0aks">
-  
-  ![Chase's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chase0aks&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
-  
-</a>
-<br />
-<br />
+🌱 My current adventure involves expanding my knowledge in a wide range of tech topics and languages, all while keeping an eye out for exciting new developments in the field.
+
+🤝 I'm open to collaborating on a wide array of projects, so if you have an idea or initiative you'd like to work on together, don't hesitate to reach out. Let's create something awesome!
+
+💼 You can connect with me on [LinkedIn](www.linkedin.com/in/chase-oaks-42a19b19b).
+
+😄 Pronouns: He / Him
+
+🌟 Fun Fact: I share the common enthusiasm of tech-savvy folks for all things related to technology, from tinkering with electronics to writing lines of code that make things happen.
+
+### GitHub Stats and Activities
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=chase0aks&style=for-the-badge&color=orange" width="200" />
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  </a>
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/chase0aks">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks&theme=tokyo-night&hide_border=true&text_color=ffffff&color=708090&point=24292e&area=true" />
+  </a>
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=chase0aks&style=for-the-badge&color=orange" width="200" />
 </div>
