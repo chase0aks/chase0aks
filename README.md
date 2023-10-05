@@ -1,6 +1,4 @@
-# Hi 👋, **I'm Aakash Verma** 🇮🇳 
-
-I am a passionate **Full Stack Developer** from **INDIA** with overall 2+ years of experience in web technologies. I have overall 4+ years of experience and worked on different technologies throughout my professional career. 
+# Hi 👋, **I'm Chase Oaks 
 
 - 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
 - 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
@@ -11,15 +9,15 @@ I am a passionate **Full Stack Developer** from **INDIA** with overall 2+ years 
 - ⚡ Fun fact: I love electronics and programming.
 
 <a href="https://github.com/chase0aks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyv26&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <br />
 <br />
 <a href="https://github.com/chase0aks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skyv26&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <a href="https://github.com/chase0aks">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyv26&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <br />
 <br />
