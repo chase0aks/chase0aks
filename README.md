@@ -14,24 +14,19 @@
 
 ### GitHub Stats and Activities
 
-<div align="center">
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks" width="500" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks" width="500" />
-  </a>
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks" width="500" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks" />
-  </a>
-  <br />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=chase0aks" width="200" />
-</div>
+📊 **GitHub Stats**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&layout=compact)](https://github.com/chase0aks)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/chase0aks)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chase0aks)](https://github.com/chase0aks)
+
+📈 **Activity Graph**
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=chase0aks&theme=github)](https://github.com/chase0aks)
+
+👀 **Profile Views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=chase0aks)
+
+Keep coding and exploring the tech world! 😄🚀
+
