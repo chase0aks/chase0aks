@@ -28,10 +28,5 @@
   </a>
   <br />
   <br />
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks&theme=tokyo-night&hide_border=true&text_color=ffffff&color=708090&point=24292e&area=true" />
-  </a>
-  <br />
-  <br />
   <img src="https://komarev.com/ghpvc/?username=chase0aks&style=for-the-badge&color=orange" width="200" />
 </div>
