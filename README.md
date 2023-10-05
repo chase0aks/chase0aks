@@ -29,7 +29,7 @@
   <br />
   <br />
   <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks&theme=dark&hide_border=true&text_color=ffffff&color=708090&point=24292e&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks&theme=tokyo-night&hide_border=true&text_color=ffffff&color=708090&point=24292e&area=true" />
   </a>
   <br />
   <br />
