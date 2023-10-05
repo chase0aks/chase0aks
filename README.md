@@ -28,19 +28,20 @@
 <div align="center">
   <h3>GitHub Overview</h3>
   <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&theme=dark&show_icons=true&include_all_commits=true&count_private=true" width="500" />
   </a>
 </div>
 
 <div align="center">
   <h3>GitHub Contribution Streak</h3>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=chase0aks&theme=dark" alt="GitHub Streak" width="500" />
-    </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=dark" width="500" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=chase0aks)](https://git.io/streak-stats)" />
+  <h3>GitHub Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=chase0aks&label=Profile+Views&color=green" width="150" />
 </div>
 
 <div align="center">
