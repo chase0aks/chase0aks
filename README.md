@@ -16,25 +16,20 @@
 
 <div align="center">
   <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chase0aks&theme=chartreuse-dark&layout=donut&langs_count=20" width="500" />
   </a>
   <br />
   <br />
   <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=chartreuse-dark&include_all_commits=true&number_format=long" width="500" />
   </a>
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks" width="500" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chase0aks" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chase0aks&theme=chartreuse-dark&card_width=500"" />
   </a>
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=chase0aks" width="200" />
 </div>
 
-Keep coding and exploring the tech world! 😄🚀
+# Keep coding and exploring the tech world! 😄🚀
 
