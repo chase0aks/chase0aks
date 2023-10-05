@@ -23,9 +23,6 @@
   <a href="https://github.com/chase0aks">
     <img src="https://github-readme-stats.vercel.app/api?username=chase0aks&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
   </a>
-  <a href="https://github.com/chase0aks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chase0aks&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
-  </a>
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=chase0aks&style=for-the-badge&color=orange" width="200" />
