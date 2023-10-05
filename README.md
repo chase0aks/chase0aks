@@ -6,7 +6,7 @@
 
 🤝 I'm open to collaborating on a wide array of projects, so if you have an idea or initiative you'd like to work on together, don't hesitate to reach out. Let's create something awesome!
 
-💼 You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link).
+💼 You can connect with me on [LinkedIn](www.linkedin.com/in/chase-oaks-42a19b19b).
 
 😄 Pronouns: He / Him
 
