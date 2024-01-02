@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Chase Oaks
 
-🎓 I'm close to completing my undergraduate degree in Computer Science. As a lifelong learner, I'm deeply passionate about exploring the vast world of technology and diving into a variety of coding languages.
+🎓 I have completed my undergraduate degree in Computer Science. As a lifelong learner, I'm deeply passionate about exploring the vast world of technology and diving into a variety of coding languages.
 
 🌱 My current journey involves expanding my knowledge across a broad spectrum of tech topics and languages. I stay vigilant for the latest developments in the ever-evolving tech landscape.
 
